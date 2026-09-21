@@ -1,0 +1,9 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Watchdog state (last-seen event timestamp)
+win_event_last.txt
+
+# Local secrets / config
+.env
